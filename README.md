@@ -1,4 +1,3 @@
-# Input_tutorials_RV_Orbits
 # Input Tutorials for RV Orbit Fitting
 
 This repository contains **seven example input files** for demonstrating how to fit combined visual & radial-velocity (RV) orbits of binary stars using a Python orbital-fitting tool. The files and instructions here assume you have:
