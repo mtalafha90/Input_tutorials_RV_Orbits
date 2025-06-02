@@ -51,6 +51,7 @@ In this repository, you should see:
 ---
 
 ## 3. Format of Each `.csv` File
+---
 ########################################
 #Object info
 Object:,Mlr 224 = GL 765.2
@@ -96,8 +97,8 @@ V0,-3.91
 1971.67,280,0.21,0.04,I1,M1
 1972.65,288.6,0.2,0.04,I1,M3
 ....
+
 ########################################
----
 
 ## 4. Detailed Explanation of Each Example
 
